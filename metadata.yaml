@@ -32,8 +32,8 @@ license: CC-BY-4.0
 model: ACCESS-OM2
 version: '2.0'
 url: /home/561/qo9901/access-om2/1deg_jra55_ryf
-experiment_uuid: e097c70d-d3e9-4097-ab63-f5ffaffadf5c
-name: 1deg_esm1p5_forc_atm-expt-e097c70d
+experiment_uuid: 433d74fa-842b-41b6-91a0-999991227dea
+name: 1deg_esm1p5_forc_atm-expt-433d74fa
 schema_version:  # The version of the schema (string)
 long_description: # Long description of the experiment (string)
 frequency: # The frequency(/ies) included in the experiment (string)
