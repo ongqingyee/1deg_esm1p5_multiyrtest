@@ -3,53 +3,53 @@
   "inputs": [
     {
       "filename": "INPUT/ESM1p5_SSP585.rsds.2015_2016.nc",
-      "fieldname": "rsds",
+      "fieldname": "fld_s01i201",
       "cname": "swfld_ai"
     },
     {
       "filename": "INPUT/ESM1p5_SSP585.rlds.2015_2016.nc",
-      "fieldname": "rlds",
+      "fieldname": "fld_s02i201",
       "cname": "lwfld_ai"
     },
     {
       "filename": "INPUT/ESM1p5_SSP585.prra.2015_2016.nc",
-      "fieldname": "prra",
+      "fieldname": "fld_s05i214",
       "cname": "rain_ai"
     },
     {
       "filename": "INPUT/ESM1p5_SSP585.prsn.2015_2016.nc",
-      "fieldname": "prsn",
+      "fieldname": "fld_s05i215",
       "cname": "snow_ai"
     },
     {
       "filename": "INPUT/ESM1p5_SSP585.psl.2015_2016.nc",
-      "fieldname": "psl",
+      "fieldname": "fld_s00i409",
       "cname": "press_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.friver.2015_2016.nc",
+      "filename": "INPUT/RYF.friver.2015_2016.nc",
       "fieldname": "friver",
       "cname": "runof_ai",
       "domain": "land"
     },
     {
       "filename": "INPUT/ESM1p5_SSP585.tas.2015_2016.nc",
-      "fieldname": "tas",
+      "fieldname": "fld_s03i236",
       "cname": "tair_ai"
     },
     {
       "filename": "INPUT/ESM1p5_SSP585.huss.2015_2016.nc",
-      "fieldname": "huss",
+      "fieldname": "fld_s03i237",
       "cname": "qair_ai"
     },
     {
       "filename": "INPUT/ESM1p5_SSP585.uas.2015_2016.nc",
-      "fieldname": "uas",
+      "fieldname": "fld_s03i209",
       "cname": "uwnd_ai"
     },
     {
       "filename": "INPUT/ESM1p5_SSP585.vas.2015_2016.nc",
-      "fieldname": "vas",
+      "fieldname": "fld_s03i210",
       "cname": "vwnd_ai"
     },
     {
