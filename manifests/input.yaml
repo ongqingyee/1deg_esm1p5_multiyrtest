@@ -706,11 +706,21 @@ work/INPUT/um1v_scrip_nomask.nc:
   hashes:
     binhash: 3164315fb088e59576fb9eeb2155eabf
     md5: 1106501c8939cdcfd477ad5fcf9f30c6
+work/atmosphere/INPUT/ESM1p5_SSP585.friver.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585.friver.2015_2016.nc
+  hashes:
+    binhash: ead98901bc8ef081a5b4d38fbbfe3422
+    md5: a364c8e02c9f398194afc94c7b726ba5
 work/atmosphere/INPUT/ESM1p5_SSP585.huss.2015_2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585.huss.2015_2016.nc
   hashes:
     binhash: 2ff29b00fcba8dcb364cceeaf672f199
     md5: 44818ee5e5290428c8ab7aa0b95dea20
+work/atmosphere/INPUT/ESM1p5_SSP585.licalvf.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585.licalvf.2015_2016.nc
+  hashes:
+    binhash: 4b1dd8849050740d3ce2725b937f01f2
+    md5: ddb882ee40a1a6b70a72e1144679653e
 work/atmosphere/INPUT/ESM1p5_SSP585.prra.2015_2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585.prra.2015_2016.nc
   hashes:
