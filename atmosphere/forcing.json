@@ -27,7 +27,7 @@
       "cname": "press_ai"
     },
     {
-      "filename": "INPUT/RYF.friver.2015_2016.nc",
+      "filename": "INPUT/RYF.friver.1990_1991.nc",
       "fieldname": "friver",
       "cname": "runof_ai",
       "domain": "land"
