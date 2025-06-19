@@ -24,14 +24,15 @@ sync:
 name: common
 model: access-om2
 input:
-   - /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_cice_to_um1t_CONSERV_FRACNNEI.nc
-   - /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1u_to_cice_CONSERV_FRACNNEI.nc
-   - /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1t_to_cice_CONSERV_DESTAREA.nc
-   - /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_cice_to_um1u_CONSERV_FRACNNEI.nc
-   - /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1v_to_cice_CONSERV_FRACNNEI.nc
-   - /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1t_to_cice_CONSERV_FRACNNEI.nc
-   - /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_cice_to_um1v_CONSERV_FRACNNEI.nc
    - /g/data/k10/qo9901/ESM1p5_restarts_to_OM2/tools
+   #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_cice_to_um1t_CONSERV_FRACNNEI.nc
+   #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1u_to_cice_CONSERV_FRACNNEI.nc
+   #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1t_to_cice_CONSERV_DESTAREA.nc
+   #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_cice_to_um1u_CONSERV_FRACNNEI.nc
+   #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1v_to_cice_CONSERV_FRACNNEI.nc
+   #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1t_to_cice_CONSERV_FRACNNEI.nc
+   #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_cice_to_um1v_CONSERV_FRACNNEI.nc
+   #- /g/data/k10/qo9901/ESM1p5_restarts_to_OM2/tools
    # changed for esm1.5 forcing # Remapping weights above
    #  - /g/data/vk83/experiments/inputs/access-om2/remapping_weights/JRA55/global.1deg/2020.05.30/JRA55_MOM1_conserve2nd.nc
 #  - /g/data/vk83/experiments/inputs/access-om2/remapping_weights/JRA55/global.1deg/2020.05.30/JRA55_MOM1_patch.nc
