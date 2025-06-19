@@ -43,12 +43,12 @@
       "cname": "qair_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.uas.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585.uas_u.2015_2016.nc",
       "fieldname": "fld_s03i209",
       "cname": "uwnd_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.vas.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585.vas_v.2015_2016.nc",
       "fieldname": "fld_s03i210",
       "cname": "vwnd_ai"
     },
