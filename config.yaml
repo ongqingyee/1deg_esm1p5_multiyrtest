@@ -48,7 +48,7 @@ submodels:
       - /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data
       - /g/data/k10/qo9901/ESMforcing_input
 # changed for esm1.5 forcing
-#   - /g/data/vk83/experiments/inputs/access-om2/remapping_weights/JRA55/global.1deg/2020.05.30/rmp_jrar_to_cict_CONSERV.nc
+      - /g/data/vk83/experiments/inputs/access-om2/remapping_weights/JRA55/global.1deg/2020.05.30/rmp_jrar_to_cict_CONSERV.nc
       ncpus: 1
 
     - name: ocean

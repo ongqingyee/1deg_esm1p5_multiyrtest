@@ -831,6 +831,11 @@ work/atmosphere/INPUT/RYF.vas.1990_1991.nc:
   hashes:
     binhash: d15ca562e37e82fb2d31657701f0a560
     md5: 88dc8c70338bbc8f5efc48ed0009a99f
+work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/remapping_weights/JRA55/global.1deg/2020.05.30/rmp_jrar_to_cict_CONSERV.nc
+  hashes:
+    binhash: 1408c9a906c2c24a5a4cbdd47cd41670
+    md5: 10f0b5ea6b8102a03ad1140e5163a0f7
 work/atmosphere/INPUT/rmp_um1t_to_cice_CONSERV_DESTAREA.nc:
   fullpath: /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1t_to_cice_CONSERV_DESTAREA.nc
   hashes:
