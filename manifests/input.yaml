@@ -676,6 +676,11 @@ work/atmosphere/INPUT/ESM1p5_SSP585.friver.2015_2016.nc:
   hashes:
     binhash: ead98901bc8ef081a5b4d38fbbfe3422
     md5: a364c8e02c9f398194afc94c7b726ba5
+work/atmosphere/INPUT/ESM1p5_SSP585.huss.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585.huss.2015_2016.nc
+  hashes:
+    binhash: 5c777a32b9c7aa9c3cd8424a4ce66594
+    md5: 44818ee5e5290428c8ab7aa0b95dea20
 work/atmosphere/INPUT/ESM1p5_SSP585.licalvf.2015_2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585.licalvf.2015_2016.nc
   hashes:
