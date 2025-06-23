@@ -2,27 +2,27 @@
   "description": "ESM1p5 SSP585 run with forcing from 2015-2016",
   "inputs": [
     {
-      "filename": "INPUT/ESM1p5_SSP585.rsds.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.rsds.2015_2016.nc",
       "fieldname": "fld_s01i201",
       "cname": "swfld_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.rlds.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.rlds.2015_2016.nc",
       "fieldname": "fld_s02i207",
       "cname": "lwfld_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.prra.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.prra.2015_2016.nc",
       "fieldname": "fld_s05i214",
       "cname": "rain_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.prsn.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.prsn.2015_2016.nc",
       "fieldname": "fld_s05i215",
       "cname": "snow_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.psl.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.psl.2015_2016.nc",
       "fieldname": "fld_s00i409",
       "cname": "press_ai"
     },
@@ -33,22 +33,22 @@
       "domain": "land"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.tas.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.tas.2015_2016.nc",
       "fieldname": "fld_s03i236",
       "cname": "tair_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.huss.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.huss.2015_2016.nc",
       "fieldname": "fld_s03i237",
       "cname": "qair_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.uas_u.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.uas_u.2015_2016.nc",
       "fieldname": "fld_s03i209",
       "cname": "uwnd_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.vas_v.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.vas_v.2015_2016.nc",
       "fieldname": "fld_s03i210",
       "cname": "vwnd_ai"
     },

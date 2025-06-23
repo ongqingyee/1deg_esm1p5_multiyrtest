@@ -736,6 +736,51 @@ work/atmosphere/INPUT/ESM1p5_SSP585.vas_v.2015_2016.nc:
   hashes:
     binhash: 72969f94ef2dd6eb042807e5ac313977
     md5: 5ea53a10d71ce1897819d42094e70457
+work/atmosphere/INPUT/ESM1p5_SSP585_full.huss.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.huss.2015_2016.nc
+  hashes:
+    binhash: 237e1b2855fb0e25c9743f6c2d99f674
+    md5: 8896ded404f611a69795c9162f2cffa4
+work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2015_2016.nc
+  hashes:
+    binhash: 946aa80e89fb16499778f1ac2e5e6479
+    md5: 4dc5ac57298c27680c69f1e7658a1749
+work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2015_2016.nc
+  hashes:
+    binhash: eb122c04bfb0ff78a27c0220786b8cdb
+    md5: 76c3c3822c098c6bf24871094945985f
+work/atmosphere/INPUT/ESM1p5_SSP585_full.psl.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.psl.2015_2016.nc
+  hashes:
+    binhash: 64faa99981fd20b5e6f86f4308d1adac
+    md5: 2c37ae453d10814d53a0aad48b4ab053
+work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2015_2016.nc
+  hashes:
+    binhash: cb2781a199b226d9092e1a11f0d8d94f
+    md5: dfb13bcabf8d44bb553048dd7fe65264
+work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2015_2016.nc
+  hashes:
+    binhash: b237f9c57c23c4e256136fbb4223feb1
+    md5: dc056b76eea7b829ea8e94075c2c2c7a
+work/atmosphere/INPUT/ESM1p5_SSP585_full.tas.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.tas.2015_2016.nc
+  hashes:
+    binhash: 1058b11dd7511f08290ea368926c5b07
+    md5: 4ea320e1a7c3810e06320a2f7fe9b8a6
+work/atmosphere/INPUT/ESM1p5_SSP585_full.uas_u.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.uas_u.2015_2016.nc
+  hashes:
+    binhash: 067acda3fc23248b9a083d857c1475dd
+    md5: e6e265a127bc3928739856fac5dcf319
+work/atmosphere/INPUT/ESM1p5_SSP585_full.vas_v.2015_2016.nc:
+  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.vas_v.2015_2016.nc
+  hashes:
+    binhash: 221af330fca86becb1cb09b1f4d6ea5f
+    md5: 0b1c6a80e45e91dee7dc9074998a0031
 work/atmosphere/INPUT/RYF.friver.1990_1991.nc:
   fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.friver.1990_1991.nc
   hashes:
@@ -801,42 +846,6 @@ work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
   hashes:
     binhash: 1408c9a906c2c24a5a4cbdd47cd41670
     md5: 10f0b5ea6b8102a03ad1140e5163a0f7
-work/ice/RESTART/grid.nc:
-  copy: true
-  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/grids/global.1deg/2020.05.30/grid.nc
-  hashes:
-    binhash: 9098fba9f0126f4a4dc9a585497e1d9d
-    md5: 1213e346055ee073fe33dc12578d99c6
-work/ice/RESTART/i2o.nc:
-  copy: true
-  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/i2o.nc
-  hashes:
-    binhash: 88d41a79a6355b8116ce8b18bba079af
-    md5: c96e06c3c80c0f680545db59ed3349e5
-work/ice/RESTART/kmt.nc:
-  copy: true
-  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/grids/global.1deg/2020.10.22/kmt.nc
-  hashes:
-    binhash: 2e4296ad507397d77829d1f396da6a0f
-    md5: 1f9806c646a620378e5257e480bc9df7
-work/ice/RESTART/monthly_sstsss.nc:
-  copy: true
-  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/monthly_sstsss.nc
-  hashes:
-    binhash: ca070010e146b5d25f0e4ccf46c61478
-    md5: 323d4c605f83f4d7d3126da70153c2ed
-work/ice/RESTART/o2i.nc:
-  copy: true
-  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/o2i.nc
-  hashes:
-    binhash: 8dfbdcbb34072da52a165b9a4c0158c3
-    md5: 3498246dcd7da40d3b8c6b4a908b260f
-work/ice/RESTART/u_star.nc:
-  copy: true
-  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/u_star.nc
-  hashes:
-    binhash: e6fb6600092207637fab2ed9b33d2234
-    md5: 68cf0ef92576f96ef085cd7f243d0c39
 work/ocean/INPUT/chl.nc:
   fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/chlorophyll/global.1deg/2020.05.30/chl.nc
   hashes:
