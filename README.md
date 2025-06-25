@@ -1,5 +1,8 @@
 # 1deg_jra55_ryf
 
+
+** EO 26-Jun-2025: modified RYF simulation with ESM1.5 forcing as input and restarts from the 1deg_esm1p5_forc_atm. -- testing to see restarts
+
 Standard configuration for 1 degree global [ACCESS-OM2](https://github.com/ACCESS-NRI/access-om2) experiment (ACCESS-OM2) with JRA55-do 1 May 1990 - 30 April 1991 repeat-year forcing (RYF9091).
 
 This is the physics-only version.
