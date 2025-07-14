@@ -120,4 +120,4 @@ userscripts:
   run: rm -f resubmit.count
   sync: /g/data/vk83/apps/om2-scripts/concatenate_ice/concat_ice_daily.sh
 restart: 
-  /scratch/if69/qo9901/access-om2/archive/1deg_esm1p5_forc_atm-expt-433d74fa/restart000
+  /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/
