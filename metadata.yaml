@@ -32,8 +32,8 @@ license: CC-BY-4.0
 model: ACCESS-OM2
 version: '2.0'
 url: /home/561/qo9901/access-om2/1deg_esm1p5_forc_atm
-experiment_uuid: 6071a62d-2952-4e9c-bd5c-b9b51a3f5aab
-name: 1deg_esm1p5_forc_restart-expt-6071a62d
+experiment_uuid: 1a61e2a8-61c3-4ebb-adf8-0d5731d30c10
+name: 1deg_esm1p5_forc_restart-expt-1a61e2a8
 schema_version:  # The version of the schema (string)
 long_description: # Long description of the experiment (string)
 frequency: # The frequency(/ies) included in the experiment (string)
