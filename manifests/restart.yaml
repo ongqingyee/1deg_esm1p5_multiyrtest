@@ -3,171 +3,111 @@ version: 1.0
 ---
 work/ice/RESTART/ice.restart_file:
   copy: true
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ice/ice.restart_file
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ice/ice.restart_file
   hashes:
     binhash: a1091dcbadc1d187ddfab567c8c4085b
     md5: f8c4fe8a2ae26f0d98de541c57d2a76b
 work/ice/RESTART/ice.restart_file-20141231:
   copy: true
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ice/ice.restart_file-20141231
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ice/ice.restart_file-20141231
   hashes:
     binhash: 6cffefb6e5766d7433d521df554e3862
     md5: f8c4fe8a2ae26f0d98de541c57d2a76b
 work/ice/RESTART/iced.20150101:
   copy: true
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ice/iced.20150101
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ice/iced.20150101
   hashes:
     binhash: b0591619e1dd66396e09d1d083b9985b
     md5: 79f9662f59da0025ea4104a1def62c67
 work/ice/RESTART/mice.nc:
   copy: true
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ice/mice.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ice/mice.nc
   hashes:
     binhash: 9b4679e06a182eb7880846d942366018
     md5: 45437261c978bb278c8b558798861844
 work/ice/RESTART/mice.nc-20141231:
   copy: true
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ice/mice.nc-20141231
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ice/mice.nc-20141231
   hashes:
     binhash: 5c7c5ae69b74c25099239a47078f150f
     md5: 45437261c978bb278c8b558798861844
 work/ocean/INPUT/ocean_age.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_age.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_age.res.nc
   hashes:
-    binhash: 8c96997ce86eec4e2a5d2b008fc5abfd
-    md5: aa46e65cb3bf32a8f012663c0331b7fd
-work/ocean/INPUT/ocean_age.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_age.res.nc-20141231
-  hashes:
-    binhash: d7c3cb84a35ee2486a9a46d4ec2f392c
-    md5: aa46e65cb3bf32a8f012663c0331b7fd
+    binhash: f2da8c06a6098da9c3d66595bb08f4cb
+    md5: d9aee98a69f2a9744d69f649c6aff6a1
 work/ocean/INPUT/ocean_barotropic.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_barotropic.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_barotropic.res.nc
   hashes:
-    binhash: 809c98904d4cd74272e56a1db8254005
-    md5: 7beb69be8bc81531519295c3d5115f78
-work/ocean/INPUT/ocean_barotropic.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_barotropic.res.nc-20141231
-  hashes:
-    binhash: 2fdcf098d6a7eea9e489efd1cbae6d2b
-    md5: 7beb69be8bc81531519295c3d5115f78
+    binhash: a182347b8ff9abcc0d7c12918b48e833
+    md5: cd7f89b05ed7cfb27c7810647e27e12a
 work/ocean/INPUT/ocean_bih_friction.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_bih_friction.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_bih_friction.res.nc
   hashes:
-    binhash: 4b1ed3a702fddba8b6bfa208d25c160f
-    md5: 0c7444a512df80478fa8238eb058010f
-work/ocean/INPUT/ocean_bih_friction.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_bih_friction.res.nc-20141231
-  hashes:
-    binhash: 5bc0c6962cdf49f938bdb413f473a192
-    md5: 0c7444a512df80478fa8238eb058010f
+    binhash: c666719e16e893e2bcbb8bc877433527
+    md5: 4ae44b74832f5bff09408db375f954fe
 work/ocean/INPUT/ocean_density.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_density.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_density.res.nc
   hashes:
-    binhash: 7689a85db91b4f780186f06858fd893c
-    md5: 4b818b5985caab910020ddc8aac9185a
-work/ocean/INPUT/ocean_density.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_density.res.nc-20141231
-  hashes:
-    binhash: 831c1ffa837ce0f4fcd1e6eeaf72d9c9
-    md5: 4b818b5985caab910020ddc8aac9185a
+    binhash: 509338045b04ec7c5f0758f9ee62f6be
+    md5: bde8334dcb5a0478fcfe04f37701ba08
 work/ocean/INPUT/ocean_frazil.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_frazil.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_frazil.res.nc
   hashes:
-    binhash: 06b2f338fbc667a364a1302e0bacb106
-    md5: e3a76d373fe558a9f0924d74ff05e5d9
-work/ocean/INPUT/ocean_frazil.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_frazil.res.nc-20141231
-  hashes:
-    binhash: bf95577647ac2c757d1f4b682d139e87
-    md5: e3a76d373fe558a9f0924d74ff05e5d9
+    binhash: e5c00c9347aa9459f2b85ebe828b40e0
+    md5: 2361a1f6be321026ccb60e19e80c2590
 work/ocean/INPUT/ocean_lap_friction.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_lap_friction.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_lap_friction.res.nc
   hashes:
-    binhash: 31337357d0e8c97582833be9be5b4215
-    md5: ef5c08f72eb70e6da6c70452cc30d5f2
-work/ocean/INPUT/ocean_lap_friction.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_lap_friction.res.nc-20141231
-  hashes:
-    binhash: f259d925a72250ee5ad31756810e051f
-    md5: ef5c08f72eb70e6da6c70452cc30d5f2
+    binhash: dd230aacaba2ef98b5dc9b23cd934d4a
+    md5: 89eb34420f699fce66d865aa6263e2f4
 work/ocean/INPUT/ocean_neutral.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_neutral.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_neutral.res.nc
   hashes:
-    binhash: eed268e3ebe89a2b460fe9d28bdf2462
-    md5: b34a0b6d1f3df49e98acb951d4087d8c
-work/ocean/INPUT/ocean_neutral.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_neutral.res.nc-20141231
-  hashes:
-    binhash: b3b68ec4545d3e722d5949c44553977e
-    md5: b34a0b6d1f3df49e98acb951d4087d8c
+    binhash: 4f1a64fe772b0380e9c4146c519d7311
+    md5: c0539dd0410eebfa41bf7c21e3038cf6
 work/ocean/INPUT/ocean_pot_temp.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_pot_temp.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_pot_temp.res.nc
   hashes:
-    binhash: a5d4eee2a2e360b2fb9e0527414d5236
-    md5: 1a9910e0b28d58e07b987d06a1584f72
-work/ocean/INPUT/ocean_pot_temp.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_pot_temp.res.nc-20141231
-  hashes:
-    binhash: 4761b855181b42dde3f365fc57f6b120
-    md5: 1a9910e0b28d58e07b987d06a1584f72
+    binhash: e1cf7fb65438e58d2e48d3e8971ae4d4
+    md5: ed3984aa594b701f46e6c116cff664cb
 work/ocean/INPUT/ocean_sbc.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_sbc.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_sbc.res.nc
   hashes:
-    binhash: 723e1011f03b20347e57ca40a29d38f7
-    md5: acdd3cbb897ff8637dee3d9d4ae02969
-work/ocean/INPUT/ocean_sbc.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_sbc.res.nc-20141231
-  hashes:
-    binhash: 37dedc6f5234dce01f02ad20c85d46be
-    md5: acdd3cbb897ff8637dee3d9d4ae02969
+    binhash: 6167ae9e2bd4dfbc1c2afc1711ea0a59
+    md5: df208892a03d95b1b44d93b0937d5c75
 work/ocean/INPUT/ocean_sigma_transport.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_sigma_transport.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_sigma_transport.res.nc
   hashes:
-    binhash: 15249cd8b714ef4d4801227e5a0cd4ef
-    md5: fe527a9917d30955d0dc082271c1392f
-work/ocean/INPUT/ocean_sigma_transport.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_sigma_transport.res.nc-20141231
+    binhash: 0c6f9d130e8ef62a4edd4166c31f2313
+    md5: 37e63e9d42ee2c55a138836137cab64f
+work/ocean/INPUT/ocean_solo.res:
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_solo.res
   hashes:
-    binhash: 24f73aecd3a60d62bed367c2d7660638
-    md5: fe527a9917d30955d0dc082271c1392f
+    binhash: cbef882ddc998a5a70c5a7a9932feacf
+    md5: a9659ba6023940ced1734515d7353bad
 work/ocean/INPUT/ocean_temp_salt.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_temp_salt.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_temp_salt.res.nc
   hashes:
-    binhash: 8bdf5bfc04661a3a7b82df6ce3861151
-    md5: ef1c7492819a98494184d11d3d91a1db
-work/ocean/INPUT/ocean_temp_salt.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_temp_salt.res.nc-20141231
-  hashes:
-    binhash: d2396a068bc12aae0e938c698d8395ac
-    md5: ef1c7492819a98494184d11d3d91a1db
+    binhash: cb1b241ce28d60312f441f9f2fa0fb81
+    md5: 5add83197fad12fdb7be8fecf87b6b19
 work/ocean/INPUT/ocean_thickness.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_thickness.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_thickness.res.nc
   hashes:
-    binhash: 2cd16a1344d4515cf2d76e5d081b284a
-    md5: 8a118e98490a7e20101ef76d40475ccc
-work/ocean/INPUT/ocean_thickness.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_thickness.res.nc-20141231
+    binhash: eabc07b63a7aa93f1accb58ee7444045
+    md5: 14398106969e2c0dae0697e53d27ca88
+work/ocean/INPUT/ocean_tracer.res:
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_tracer.res
   hashes:
-    binhash: 91a0dcc8a838dea2aa5b319c51a6065f
-    md5: 8a118e98490a7e20101ef76d40475ccc
+    binhash: 240786b13a2b30fc2c8dafbb7b5085d6
+    md5: 04437c2bf9c20227214f611c7521da1b
 work/ocean/INPUT/ocean_velocity.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_velocity.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_velocity.res.nc
   hashes:
-    binhash: 5e41fdcd5a57ac8765e8a37d5ad0d858
-    md5: 56353f0e9c1adabf8b6a128386e9d935
-work/ocean/INPUT/ocean_velocity.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_velocity.res.nc-20141231
-  hashes:
-    binhash: 834812d4fa292bcb7103e72420c27b19
-    md5: 56353f0e9c1adabf8b6a128386e9d935
+    binhash: ac11c2c1b52ac9d9e358f893ca086591
+    md5: d397fcb8d1769fb823d22f48ba0caa91
 work/ocean/INPUT/ocean_velocity_advection.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_velocity_advection.res.nc
+  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_velocity_advection.res.nc
   hashes:
-    binhash: 16fc92b4a799001cca499be36713a8fa
-    md5: 5d818238bf10fd0e6055dc8a985a173d
-work/ocean/INPUT/ocean_velocity_advection.res.nc-20141231:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/ocean/ocean_velocity_advection.res.nc-20141231
-  hashes:
-    binhash: 94fd634aaa23fa9973e63440a5a6cadf
-    md5: 5d818238bf10fd0e6055dc8a985a173d
+    binhash: 60cce02e7fb48a842494406a293389b3
+    md5: b9f526030d25278467f448fad856c46e
