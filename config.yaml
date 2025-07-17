@@ -3,7 +3,7 @@
 # If submitting to a different project to your default, uncomment line below
 # and replace PROJECT_CODE with appropriate code. This may require setting shortpath
 project: if69
-
+shortpath: /scratch/if69
 # PROJECT_CODE
 
 # Force payu to always find, and save, files in this scratch project directory
@@ -11,7 +11,7 @@ project: if69
 
 queue: normal
 walltime: 3:00:00
-jobname: 1deg_esm1p5_forc_atm
+jobname: 1deg_esm_cold2
 mem: 1000GB
 
 # Sync options for automatically copying data from ephemeral scratch space to 
@@ -25,6 +25,7 @@ name: common
 model: access-om2
 input:
 - /g/data/k10/qo9901/ESM1p5_restarts_to_OM2/tools
+#- /g/data/y99/dkh157/access_om2/ong_remap
    #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_cice_to_um1t_CONSERV_FRACNNEI.nc
    #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1u_to_cice_CONSERV_FRACNNEI.nc
    #- /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1t_to_cice_CONSERV_DESTAREA.nc
@@ -67,7 +68,9 @@ submodels:
   - /g/data/vk83/experiments/inputs/access-om2/ocean/grids/vertical/global.1deg/2020.10.22/ocean_vgrid.nc
   - /g/data/vk83/experiments/inputs/access-om2/ocean/processor_masks/global.1deg/216.16x15/2020.05.30/ocean_mask_table
   - /g/data/vk83/experiments/inputs/access-om2/ocean/chlorophyll/global.1deg/2020.05.30/chl.nc
-  - /g/data/vk83/experiments/inputs/access-om2/ocean/initial_conditions/global.1deg/2020.10.22/ocean_temp_salt.res.nc
+  # - /g/data/vk83/experiments/inputs/access-om2/ocean/initial_conditions/global.1deg/2020.10.22/ocean_temp_salt.res.nc
+#  - /g/data/y99/dkh157/access_om2/ong_restart_filled/ocean/ocean_temp_salt.res.nc
+  - /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_temp_salt_corrected_topo.nc
   - /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/tideamp.nc
   - /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/roughness_amp.nc
   - /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/roughness_cdbot.nc
@@ -108,7 +111,7 @@ env:
 
 manifest:
   reproduce:
-    exe: true
+    exe: false
 
 # set number of cores per node (28 for normalbw, 48 for normal on gadi)
 platform:
@@ -119,5 +122,11 @@ userscripts:
   error: tools/resub.sh
   run: rm -f resubmit.count
   sync: /g/data/vk83/apps/om2-scripts/concatenate_ice/concat_ice_daily.sh
-restart: 
-  /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/
+# restart: /g/data/y99/dkh157/access_om2/ong_restart_filled
+#  /g/data/p73/archive/CMIP6/ACCESS-ESM1-5/PI-02/restart
+#  /g/data/vk83/configurations/inputs/access-esm1p5/modern/pre-industrial/restart
+#/home/561/qo9901/access-om2/1deg_esm1p5_forc_test/archive/restart000
+
+#/scratch/if69/qo9901/access-om2/archive/1deg_esm1p5_forc_atm-expt-433d74fa/restart000
+
+
