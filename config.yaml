@@ -70,7 +70,7 @@ submodels:
   - /g/data/vk83/experiments/inputs/access-om2/ocean/chlorophyll/global.1deg/2020.05.30/chl.nc
   # - /g/data/vk83/experiments/inputs/access-om2/ocean/initial_conditions/global.1deg/2020.10.22/ocean_temp_salt.res.nc
 #  - /g/data/y99/dkh157/access_om2/ong_restart_filled/ocean/ocean_temp_salt.res.nc
-  - /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean/ocean_temp_salt_corrected_topo.res.nc
+  - /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/restart_om_vert/restart_filled_om2/ocean_temp_salt_corr_wetcell_topo.res.nc
   - /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/tideamp.nc
   - /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/roughness_amp.nc
   - /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/roughness_cdbot.nc
