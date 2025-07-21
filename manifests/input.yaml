@@ -831,101 +831,51 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.licalvf.2019_2020.nc:
   hashes:
     binhash: 3bdc0e0067ac379de8a838aff8e90c7a
     md5: f2666faefb3b313e4468783cf672351a
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2015.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2015.nc
-  hashes:
-    binhash: a38ef3f826631d10bd1ee00d691827f7
-    md5: 9a832b084cb33e35328d2125c47e23f0
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2015_2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2015_2016.nc
   hashes:
     binhash: 946aa80e89fb16499778f1ac2e5e6479
     md5: 4dc5ac57298c27680c69f1e7658a1749
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2016.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2016.nc
-  hashes:
-    binhash: a6728b1bf6990ee2efb871501fab87d9
-    md5: bd67697c118ca2c8e29fcabfd1a66633
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2016_2017.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2016_2017.nc
   hashes:
     binhash: 48e44504ce1279474caababab352d64f
     md5: cf9cb8f400e9f41591ae406272c19d66
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2017.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2017.nc
-  hashes:
-    binhash: 9a374f82ff820334de5914c431b246f2
-    md5: 2e3aed176f6647f4031a43a4c627b7c9
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2017_2018.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2017_2018.nc
   hashes:
     binhash: cfed6f33ba4736c88af615ddf96a14fe
     md5: fec56d25d893c987879d25c336e466b1
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2018.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2018.nc
-  hashes:
-    binhash: 614560983a8f017a02f8fb3669265b76
-    md5: 7ce3a8c446851c6cef70bf15c463de80
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2018_2019.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2018_2019.nc
   hashes:
     binhash: 8eb170ea8c87514410f7b4c264cac29e
     md5: 52c5356d86651f4791f86ef8f3e37796
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2019.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2019.nc
-  hashes:
-    binhash: d8b8e783e19c044bc5ccb676eb589b00
-    md5: d8d3d28292ce00f4715268dc59c76156
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prra.2019_2020.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prra.2019_2020.nc
   hashes:
     binhash: d115831786cab25358c2c0806e0857b4
     md5: 7340208a2345d8c3dce9a3ab584f5602
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2015.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2015.nc
-  hashes:
-    binhash: 12afcab206d0d79fb6247b4f6562a915
-    md5: 6ed8afe6ddf5a1eabe48c44dfa1604ae
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2015_2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2015_2016.nc
   hashes:
     binhash: eb122c04bfb0ff78a27c0220786b8cdb
     md5: 76c3c3822c098c6bf24871094945985f
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2016.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2016.nc
-  hashes:
-    binhash: 24047bcbc3628c37e40468b4e79d29d4
-    md5: 74fe9a238c7a541c93a1ed2bbbca8223
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2016_2017.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2016_2017.nc
   hashes:
     binhash: d1d840e28600880979a98385f9ae872a
     md5: 638c99cf8d2e262d1ce530db52b05164
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2017.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2017.nc
-  hashes:
-    binhash: d50ed70755509b638a6f3bc6a3683a97
-    md5: ac33dd249ea3bab302f8bddd0fe6c98d
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2017_2018.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2017_2018.nc
   hashes:
     binhash: 641668f06e623c3720e0eee41d9ad8b0
     md5: 61e09e2e0093e06f5cb0f1ac8e4886f0
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2018.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2018.nc
-  hashes:
-    binhash: d97f80a6b8321bef496e599a664643a8
-    md5: 1a0bcc37a3f2a2ffba3c46adcebf82c7
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2018_2019.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2018_2019.nc
   hashes:
     binhash: 5ee9808bf4cf1ed58c42372a1bc78291
     md5: f38d6727cea85e55ce27fcbf2f8a3ac7
-work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2019.nc:
-  fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2019.nc
-  hashes:
-    binhash: 606458ffb1b344366661d680fbfa69ad
-    md5: be4b89e2e7407b60371378146f4f7ff9
 work/atmosphere/INPUT/ESM1p5_SSP585_full.prsn.2019_2020.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.prsn.2019_2020.nc
   hashes:
@@ -984,8 +934,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.psl.2019_2020.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2015.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2015.nc
   hashes:
-    binhash: 5cf8bfc1fbfbd2a74f352a1e0ce4dd5d
-    md5: 2e8545cc8c4ba652ba03452ea92fec3d
+    binhash: d3ff5303dd1a08ec69dd4bb20863dc8e
+    md5: e1df0c57a29822f04c47c9daa578964d
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2015_2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2015_2016.nc
   hashes:
@@ -994,8 +944,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2015_2016.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2016.nc
   hashes:
-    binhash: 1dcd8830dcb3d091e614fe4f40851a5f
-    md5: fdd9bba680b05117fd27e285a3ad29da
+    binhash: 12affa91dbda486b23334332eec42f4d
+    md5: c6305af90ccdee9166faab2fee92f02b
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2016_2017.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2016_2017.nc
   hashes:
@@ -1004,8 +954,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2016_2017.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2017.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2017.nc
   hashes:
-    binhash: 148c7618ecd0f01a83f930fd1fba0609
-    md5: 322f2d0dfdb031f8cbb4600578c80c4d
+    binhash: d0a77f94faa36392ce7ea94fada69106
+    md5: f34b3a9eca2a0a9e3d1d0f24988e1a74
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2017_2018.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2017_2018.nc
   hashes:
@@ -1014,8 +964,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2017_2018.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2018.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2018.nc
   hashes:
-    binhash: 67566bed8b07315cdcf80fd5e1e22dbf
-    md5: 1a5e4623e76ef5287e28bd143c0d908d
+    binhash: b45a4185e7b3725442cf5ab272dd5c6e
+    md5: dcd8fe42bd6a1ba41fa7dd564b13b774
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2018_2019.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2018_2019.nc
   hashes:
@@ -1024,8 +974,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2018_2019.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2019.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2019.nc
   hashes:
-    binhash: 01bd9c868f540897d6d104f35153e522
-    md5: 656fa0884a4d6005d2c9537aceb86522
+    binhash: c3618a21e0bbf1d5caa1e1c3960ba4db
+    md5: b75dff61dd933b703f78f26d985b1fcb
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2019_2020.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rlds.2019_2020.nc
   hashes:
@@ -1034,8 +984,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rlds.2019_2020.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2015.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2015.nc
   hashes:
-    binhash: 95b8c67671ad761d265b652e2c0e179c
-    md5: 4b1d54e76199973c0919d762f6c87ea5
+    binhash: 56e76353f2ce00bb4ba4b31fa79b7140
+    md5: 41fc8be4ff574e71ef7a31991b156428
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2015_2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2015_2016.nc
   hashes:
@@ -1044,8 +994,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2015_2016.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2016.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2016.nc
   hashes:
-    binhash: f19c7504748421f32b63511a832a0d0e
-    md5: 988c3593c4d3bcbf1769e83a0c97c122
+    binhash: c438ef647db6877bf23e9974b51ccca3
+    md5: 628dbe689e83f3598211e310251a4dcd
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2016_2017.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2016_2017.nc
   hashes:
@@ -1054,8 +1004,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2016_2017.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2017.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2017.nc
   hashes:
-    binhash: ce50e302c57fbbe5b3057a158ba23d67
-    md5: 151416128aa79c68fcd94e9f7c2e0700
+    binhash: a3e0ff76b2d3c3e5aee4d470acfc8614
+    md5: 9c84ae255f711f27c519e910a57adc4a
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2017_2018.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2017_2018.nc
   hashes:
@@ -1064,8 +1014,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2017_2018.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2018.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2018.nc
   hashes:
-    binhash: a76bcc363e7e99895bcbc5b00e1af726
-    md5: 39a5a062efc55685a0c4c87fabd973ea
+    binhash: 723e66999b31da99c860f6204aa7f8e6
+    md5: e50ce37b2175e69dafbfbe5d97b5a2a9
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2018_2019.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2018_2019.nc
   hashes:
@@ -1074,8 +1024,8 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2018_2019.nc:
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2019.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2019.nc
   hashes:
-    binhash: 7db4ad6b7f6b421b06e0ff59ff905980
-    md5: 75cc5903613fc03c6cb0dc0cfdc6026e
+    binhash: 61a1207f0b3fa4513c1897232f3c97d8
+    md5: 0090bc1d623a560173971ed3e73b0aa6
 work/atmosphere/INPUT/ESM1p5_SSP585_full.rsds.2019_2020.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/ESM1p5_SSP585_full.rsds.2019_2020.nc
   hashes:
@@ -1232,133 +1182,133 @@ work/atmosphere/INPUT/ESM1p5_SSP585_full.vas_v.2019_2020.nc:
     binhash: 814a6dfaa12187914fdc0b99a011a753
     md5: 0f7db7656ec10513fea7376d8038ef43
 work/atmosphere/INPUT/RYF.friver.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.friver.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.friver.1990_1991.nc
   hashes:
     binhash: abba207de30541a83d25e24b424cfa87
     md5: fa3a55aeb6706a1b422d096f61a772c1
 work/atmosphere/INPUT/RYF.huss.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.huss.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.huss.1990_1991.nc
   hashes:
     binhash: 1d67d219c6f161051dec204a1842a968
     md5: 6032d514fdfdd2b6a84bdef0a4ac3afe
 work/atmosphere/INPUT/RYF.licalvf.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.licalvf.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.licalvf.1990_1991.nc
   hashes:
     binhash: 834da0a081e904fdbc892255d1954062
     md5: 6f927702cbc023cc20d3ddd69695f0a0
 work/atmosphere/INPUT/RYF.prra.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.prra.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.prra.1990_1991.nc
   hashes:
     binhash: 7bc006b83a9891d4f9ef39f4d94ffb05
     md5: ac199086106ec4e41506e6082bccb109
 work/atmosphere/INPUT/RYF.prsn.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.prsn.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.prsn.1990_1991.nc
   hashes:
     binhash: a57a154152a830ad1ca820ca9487d5ac
     md5: cd076c877c2c5df61615e04d71ed00e0
 work/atmosphere/INPUT/RYF.psl.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.psl.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.psl.1990_1991.nc
   hashes:
     binhash: 420c371361bb677eb87c01255c6e62b3
     md5: 0dfd94a5c3234fd2016dfdd01e84a170
 work/atmosphere/INPUT/RYF.rhuss.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.rhuss.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.rhuss.1990_1991.nc
   hashes:
     binhash: fe4460b8d68f94df26adc52fb56a0d6a
     md5: 632519955305cb5c19e286b151439fb5
 work/atmosphere/INPUT/RYF.rlds.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.rlds.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.rlds.1990_1991.nc
   hashes:
     binhash: 07a7fb6f9d2a3aee4081034f0cfc305a
     md5: 0ea83e107ec883c3f39a12b60ff50d8e
 work/atmosphere/INPUT/RYF.rsds.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.rsds.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.rsds.1990_1991.nc
   hashes:
     binhash: 2d6c41b66024e460fcfe0a1668bfe151
     md5: b74bf123f1e4557368a61732cf24f1c2
 work/atmosphere/INPUT/RYF.tas.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.tas.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.tas.1990_1991.nc
   hashes:
     binhash: 2a7a2f9903346123161b91ed8d5fab52
     md5: 06689885f4f2f726b95a2818ab78a20d
 work/atmosphere/INPUT/RYF.uas.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.uas.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.uas.1990_1991.nc
   hashes:
     binhash: bfd4876aac0b31e51a18c7724c84d8b1
     md5: 107bf9480f55597655d2d283b6f6b4ff
 work/atmosphere/INPUT/RYF.vas.1990_1991.nc:
-  fullpath: /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data/RYF.vas.1990_1991.nc
+  fullpath: /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-4/data/RYF.vas.1990_1991.nc
   hashes:
     binhash: d15ca562e37e82fb2d31657701f0a560
     md5: 88dc8c70338bbc8f5efc48ed0009a99f
 work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/remapping_weights/JRA55/global.1deg/2020.05.30/rmp_jrar_to_cict_CONSERV.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/remapping_weights/JRA55/global.1deg/2020.05.30/rmp_jrar_to_cict_CONSERV.nc
   hashes:
     binhash: 1408c9a906c2c24a5a4cbdd47cd41670
     md5: 10f0b5ea6b8102a03ad1140e5163a0f7
 work/ice/RESTART/grid.nc:
   copy: true
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ice/grids/global.1deg/2020.05.30/grid.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/grids/global.1deg/2020.05.30/grid.nc
   hashes:
     binhash: 9098fba9f0126f4a4dc9a585497e1d9d
     md5: 1213e346055ee073fe33dc12578d99c6
 work/ice/RESTART/i2o.nc:
   copy: true
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/i2o.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/i2o.nc
   hashes:
     binhash: 88d41a79a6355b8116ce8b18bba079af
     md5: c96e06c3c80c0f680545db59ed3349e5
 work/ice/RESTART/kmt.nc:
   copy: true
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ice/grids/global.1deg/2020.10.22/kmt.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/grids/global.1deg/2020.10.22/kmt.nc
   hashes:
     binhash: 2e4296ad507397d77829d1f396da6a0f
     md5: 1f9806c646a620378e5257e480bc9df7
 work/ice/RESTART/monthly_sstsss.nc:
   copy: true
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/monthly_sstsss.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/monthly_sstsss.nc
   hashes:
     binhash: ca070010e146b5d25f0e4ccf46c61478
     md5: 323d4c605f83f4d7d3126da70153c2ed
 work/ice/RESTART/o2i.nc:
   copy: true
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/o2i.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/o2i.nc
   hashes:
     binhash: 8dfbdcbb34072da52a165b9a4c0158c3
     md5: 3498246dcd7da40d3b8c6b4a908b260f
 work/ice/RESTART/u_star.nc:
   copy: true
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/u_star.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ice/initial_conditions/global.1deg/2020.05.30/u_star.nc
   hashes:
     binhash: e6fb6600092207637fab2ed9b33d2234
     md5: 68cf0ef92576f96ef085cd7f243d0c39
 work/ocean/INPUT/chl.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/chlorophyll/global.1deg/2020.05.30/chl.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/chlorophyll/global.1deg/2020.05.30/chl.nc
   hashes:
     binhash: fba61cf9ca4efae5dec62f43fdcda329
     md5: a7aa5bcf4a3b9fa8102edd3b6b67c3a2
 work/ocean/INPUT/grid_spec.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/grids/mosaic/global.1deg/2020.05.30/grid_spec.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/grids/mosaic/global.1deg/2020.05.30/grid_spec.nc
   hashes:
     binhash: c09e365fd835e388ebcbed3c81b3e22a
     md5: 027d2f8fb1eda3ef1cf0a3f520a217f7
 work/ocean/INPUT/ocean_hgrid.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/grids/mosaic/global.1deg/2020.05.30/ocean_hgrid.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/grids/mosaic/global.1deg/2020.05.30/ocean_hgrid.nc
   hashes:
     binhash: 42c1f3719944256497829ad0f75dbd66
     md5: 51f58be0f4ea6da2cb438a893f95c689
 work/ocean/INPUT/ocean_mask.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/grids/bathymetry/global.1deg/2020.10.22/ocean_mask.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/grids/bathymetry/global.1deg/2020.10.22/ocean_mask.nc
   hashes:
     binhash: 29f2932b5555d9f0c0e38a8329fa1da2
     md5: 411567441c64bcfa814259736c5ed1a3
 work/ocean/INPUT/ocean_mask_table:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/processor_masks/global.1deg/216.16x15/2020.05.30/ocean_mask_table
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/processor_masks/global.1deg/216.16x15/2020.05.30/ocean_mask_table
   hashes:
     binhash: f92a6c9cd60eb7ecae2c822031fc6dbe
     md5: 2203b38758fb2b56a145ef16b7872af9
 work/ocean/INPUT/ocean_mosaic.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/grids/mosaic/global.1deg/2020.05.30/ocean_mosaic.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/grids/mosaic/global.1deg/2020.05.30/ocean_mosaic.nc
   hashes:
     binhash: c5a150f69159d1d323d698b26756a69e
     md5: cb42e630ee31d3686156fcbdc2f9d07c
@@ -1368,32 +1318,32 @@ work/ocean/INPUT/ocean_temp_salt.res.nc:
     binhash: 0ccb763b9456756cc204e513a920ea1e
     md5: 2697c69e06dc7b3f7edc5b291e890c35
 work/ocean/INPUT/ocean_vgrid.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/grids/vertical/global.1deg/2020.10.22/ocean_vgrid.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/grids/vertical/global.1deg/2020.10.22/ocean_vgrid.nc
   hashes:
     binhash: 4fd591112647a35b9450058070ce92ad
     md5: 339ff716e3019a86fc861498e674250a
 work/ocean/INPUT/roughness_amp.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/roughness_amp.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/roughness_amp.nc
   hashes:
     binhash: a2ecf42d813d7f950e9110974a90fcec
     md5: 185dadeb53da2de75b47c53fd7085f89
 work/ocean/INPUT/roughness_cdbot.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/roughness_cdbot.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/roughness_cdbot.nc
   hashes:
     binhash: ad15045de33606c1ca4ee518e9333100
     md5: b50f0595f3ebc872cbcf5f3223115643
 work/ocean/INPUT/salt_sfc_restore.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/surface_salt_restoring/global.1deg/2020.05.30/salt_sfc_restore.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/surface_salt_restoring/global.1deg/2020.05.30/salt_sfc_restore.nc
   hashes:
     binhash: c29c9e14547d5397b069c2aafb0c385e
     md5: b2bd35c44017597ba99b85fb61ed4d72
 work/ocean/INPUT/tideamp.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/tideamp.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/tides/global.1deg/2020.05.30/tideamp.nc
   hashes:
     binhash: b2cd46c470dca0c4fe314172095c75a2
     md5: b2840af757d9b7b40207f33f1fc84c5c
 work/ocean/INPUT/topog.nc:
-  fullpath: /g/data/vk83/experiments/inputs/access-om2/ocean/grids/bathymetry/global.1deg/2020.10.22/topog.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/grids/bathymetry/global.1deg/2020.10.22/topog.nc
   hashes:
     binhash: 3c19e4e8c6c885b4b9dc0a44e02f3d6b
     md5: 4e13d88001b646f3cf4f1c3b8db59f91
