@@ -17,7 +17,7 @@
       "cname": "rain_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.prsn.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.prsn.{{year}}.nc",
       "fieldname": "fld_s05i215",
       "cname": "snow_ai"
     },
