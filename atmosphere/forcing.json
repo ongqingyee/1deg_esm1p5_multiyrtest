@@ -12,7 +12,7 @@
       "cname": "lwfld_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.prra.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.prra.{{year}}.nc",
       "fieldname": "fld_s05i214",
       "cname": "rain_ai"
     },
