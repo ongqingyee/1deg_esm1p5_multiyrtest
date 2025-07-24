@@ -27,7 +27,7 @@
       "cname": "press_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.friver.2015_2016.nc",
+      "filename": "INPUT/friver_org_fill_2015_mon.nc",
       "fieldname": "friver",
       "cname": "runof_ai",
       "domain": "land"
