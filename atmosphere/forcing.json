@@ -22,7 +22,7 @@
       "cname": "snow_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.psl.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.psl.{{year}}.nc",
       "fieldname": "fld_s00i409",
       "cname": "press_ai"
     },
