@@ -7,7 +7,7 @@
       "cname": "swfld_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.rlds.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.rlds.{{year}}.nc",
       "fieldname": "fld_s02i207",
       "cname": "lwfld_ai"
     },
