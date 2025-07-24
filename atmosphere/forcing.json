@@ -33,22 +33,22 @@
       "domain": "land"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.tas.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.tas.{{year}}.nc",
       "fieldname": "fld_s03i236",
       "cname": "tair_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.huss.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.huss.{{year}}.nc",
       "fieldname": "fld_s03i237",
       "cname": "qair_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.uas_u.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.uas_u.{{year}}.nc",
       "fieldname": "fld_s03i209",
       "cname": "uwnd_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.vas_v.2015_2016.nc",
+      "filename": "INPUT/ESM1p5_SSP585_full.vas_v.{{year}}.nc",
       "fieldname": "fld_s03i210",
       "cname": "vwnd_ai"
     },
