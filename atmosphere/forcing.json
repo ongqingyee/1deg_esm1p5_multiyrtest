@@ -53,7 +53,7 @@
       "cname": "vwnd_ai"
     },
     {
-      "filename": "INPUT/licalvf_repeat_2015_mon.nc",
+      "filename": "INPUT/licalvf_repeat_2015_mon_ax.nc",
       "fieldname": "licalvf",
       "cname": "licalvf_ai",
       "domain": "land"
