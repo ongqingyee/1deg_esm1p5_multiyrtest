@@ -1299,8 +1299,8 @@ work/atmosphere/INPUT/RYF.vas.1990_1991.nc:
 work/atmosphere/INPUT/friver_interp_jra_2015.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/friver_interp_jra_2015.nc
   hashes:
-    binhash: 7bb9736c0371a0f34a3d9526f6f02f75
-    md5: 389c03c735515844656a5750348f8970
+    binhash: 7a2571366b6fa26503304b0e13eff5ff
+    md5: 39b407fd191c53f70b21dbaa334a24a3
 work/atmosphere/INPUT/friver_org_2015.nc:
   fullpath: /g/data/k10/qo9901/ESMforcing_input/friver_org_2015.nc
   hashes:
