@@ -27,7 +27,7 @@
       "cname": "press_ai"
     },
     {
-      "filename": "INPUT/friver_interp_jra_2015.nc",
+      "filename": "INPUT/friver_interp_jra_fill_2015.nc",
       "fieldname": "friver",
       "cname": "runof_ai",
       "domain": "land"
