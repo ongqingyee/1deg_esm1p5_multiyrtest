@@ -27,7 +27,7 @@
       "cname": "press_ai"
     },
     {
-      "filename": "INPUT/friver_interp_jra_fill_2015.nc",
+      "filename": "INPUT/friver_interp_jra_scenario_{{year}}.nc",
       "fieldname": "friver",
       "cname": "runof_ai",
       "domain": "land"
@@ -53,7 +53,7 @@
       "cname": "vwnd_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.licalvf.2015_2016_blank.nc",
+      "filename": "INPUT/ESM1p5_SSP585.licalvf.{{year}}_blank.nc",
       "fieldname": "licalvf",
       "cname": "licalvf_ai",
       "domain": "land"
