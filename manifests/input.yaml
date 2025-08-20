@@ -1843,10 +1843,10 @@ work/ocean/INPUT/ocean_mosaic.nc:
     binhash: c5a150f69159d1d323d698b26756a69e
     md5: cb42e630ee31d3686156fcbdc2f9d07c
 work/ocean/INPUT/ocean_temp_salt.res.nc:
-  fullpath: /g/data/if69/qo9901/SSP-585-10-re1-ocn-restart-2014/ocean_temp_salt.res.nc
+  fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/initial_conditions/global.1deg/2020.10.22/ocean_temp_salt.res.nc
   hashes:
-    binhash: 369ce7bde5f86068b9e26a5126105a00
-    md5: 2e3b99f6229dcc01361b6795052db182
+    binhash: 2cd75d506cb88302fb3839f7be0a3ae0
+    md5: c5f7e60b5427a4442f111adc65a2d067
 work/ocean/INPUT/ocean_vgrid.nc:
   fullpath: /g/data/vk83/configurations/inputs/access-om2/ocean/grids/vertical/global.1deg/2020.10.22/ocean_vgrid.nc
   hashes:
