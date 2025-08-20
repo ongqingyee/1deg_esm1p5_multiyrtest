@@ -1,6 +1,6 @@
 contact: Add your name here
 email: Add your email address here
-created: '2025-07-24'
+created: '2025-08-20'
 description: "1 degree ACCESS-OM2 global model configuration under the RYF9091 Repeat\n\
   \ Year Forcing strategy outlined by Stewart et al. (2020), \nhttps://doi.org/10.1016/j.ocemod.2019.101557.\n\
   \ The configuration is based on that described in Kiss et al. (2020),\nhttps://doi.org/10.5194/gmd-13-401-2020,
@@ -31,9 +31,9 @@ reference: https://doi.org/10.5194/gmd-13-401-2020
 license: CC-BY-4.0
 model: ACCESS-OM2
 version: '2.0'
-url: /home/561/qo9901/access-om2/1deg_esm1p5_coldstart_corr
-experiment_uuid: ac225533-d344-462e-a0c4-00545c6d39ee
-name: 1deg_esm1p5_multiyrtest-expt-ac225533
+url: /home/561/qo9901/access-om2/1deg_esm1p5_multiyrtest
+experiment_uuid: b6610589-c5bd-4d1d-9939-8be93a3d5a76
+name: 1deg_esm1p5_hist_atm-expt-b6610589
 schema_version:  # The version of the schema (string)
 long_description: # Long description of the experiment (string)
 frequency: # The frequency(/ies) included in the experiment (string)
