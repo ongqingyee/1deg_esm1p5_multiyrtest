@@ -2,27 +2,27 @@
   "description": "ESM1p5 SSP585 run with forcing from 2015-2016",
   "inputs": [
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.rsds.{{year}}.nc",
-      "fieldname": "fld_s01i201",
+      "filename": "INPUT/ESM1p5_HI_full.rsds.{{year}}.nc",
+      "fieldname": "fld_s01i235",
       "cname": "swfld_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.rlds.{{year}}.nc",
+      "filename": "INPUT/ESM1p5_HI_full.rlds.{{year}}.nc",
       "fieldname": "fld_s02i207",
       "cname": "lwfld_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.prra.{{year}}.nc",
+      "filename": "INPUT/ESM1p5_HI_full.prra.{{year}}.nc",
       "fieldname": "fld_s05i214",
       "cname": "rain_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.prsn.{{year}}.nc",
+      "filename": "INPUT/ESM1p5_HI_full.prsn.{{year}}.nc",
       "fieldname": "fld_s05i215",
       "cname": "snow_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.psl.{{year}}.nc",
+      "filename": "INPUT/ESM1p5_HI_full.psl.{{year}}.nc",
       "fieldname": "fld_s00i409",
       "cname": "press_ai"
     },
@@ -33,27 +33,27 @@
       "domain": "land"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.tas.{{year}}.nc",
+      "filename": "INPUT/ESM1p5_HI_full.tas.{{year}}.nc",
       "fieldname": "fld_s03i236",
       "cname": "tair_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.huss.{{year}}.nc",
+      "filename": "INPUT/ESM1p5_HI_full.huss.{{year}}.nc",
       "fieldname": "fld_s03i237",
       "cname": "qair_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.uas_u.{{year}}.nc",
+      "filename": "INPUT/ESM1p5_HI_full.uas_u.{{year}}.nc",
       "fieldname": "fld_s03i209",
       "cname": "uwnd_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585_full.vas_v.{{year}}.nc",
+      "filename": "INPUT/ESM1p5_HI_full.vas_v.{{year}}.nc",
       "fieldname": "fld_s03i210",
       "cname": "vwnd_ai"
     },
     {
-      "filename": "INPUT/ESM1p5_SSP585.licalvf.{{year}}_blank.nc",
+      "filename": "INPUT/ESM1p5_HI.licalvf.{{year}}_blank.nc",
       "fieldname": "licalvf",
       "cname": "licalvf_ai",
       "domain": "land"

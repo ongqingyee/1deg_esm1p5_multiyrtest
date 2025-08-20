@@ -48,7 +48,7 @@ submodels:
     /g/data/vk83/apps/spack/0.20/release/linux-rocky8-x86_64/intel-19.0.5.281/libaccessom2-git.2023.10.26=2023.10.26-ltfg7jcn6t4cefotvj3kjnyu5nru26xo/bin/yatm.exe
   input:
   - /g/data/vk83/experiments/inputs/JRA-55/RYF/v1-4/data
-  - /g/data/k10/qo9901/ESMforcing_input
+  - /g/data/if69/qo9901/ESMforcing_input/HI-10-re1
 #      - /g/data/vk83/configurations/inputs/access-esm1p5/modern/share/coupler/remapping_weights/global.oi_1deg.a_N96/2020.05.19/rmp_um1t_to_cice_CONSERV_DESTAREA.nc
 
 # changed for esm1.5 forcing
