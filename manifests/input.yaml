@@ -721,6 +721,56 @@ work/atmosphere/INPUT/ESM1p5_HI.licalvf.1989_blank.nc:
   hashes:
     binhash: 78d8de0a4150352638c3a13f9aa731b3
     md5: 4d2b87ba152f0ef01e170044c3e8ae91
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1990_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1990_blank.nc
+  hashes:
+    binhash: 545066770daee7f111a50f18dfcab5a7
+    md5: 74158dcc5c4c8ef7c418e1c147ad06b8
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1991_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1991_blank.nc
+  hashes:
+    binhash: 08092203feb096698ed20a3793043752
+    md5: 45b220a718acbcbfc1a19070a5cc571c
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1992_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1992_blank.nc
+  hashes:
+    binhash: da0c89ad3c5ff440741c6152ceb23c98
+    md5: ebc188908aea78afb5fd874c79193742
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1993_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1993_blank.nc
+  hashes:
+    binhash: 8f4e77c50a77702eda1ca0cc52921446
+    md5: 4b3a00a798f1f5617206b82acf6597a2
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1994_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1994_blank.nc
+  hashes:
+    binhash: cef541891fba884d40dc867995dcd1fc
+    md5: 2e8de9bef8e01d8e02f4b785772bc760
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1995_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1995_blank.nc
+  hashes:
+    binhash: a5253358ea051ffbe0d70546f5d6e255
+    md5: a9fd55f32bda56f2972ea227679a7194
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1996_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1996_blank.nc
+  hashes:
+    binhash: d46daf51e4ca0c31ac04eb0c57f991ec
+    md5: 870bce75fea55b3dd3208000851e01c6
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1997_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1997_blank.nc
+  hashes:
+    binhash: f8bf10a52c807314600d0b7f0751b7d0
+    md5: 66ca11615636b3e13073df190251134b
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1998_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1998_blank.nc
+  hashes:
+    binhash: 6245db09bf04c6e830c1719bb7ff195b
+    md5: a3c4313409f2b15742ed786da7b50ed0
+work/atmosphere/INPUT/ESM1p5_HI.licalvf.1999_blank.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI.licalvf.1999_blank.nc
+  hashes:
+    binhash: 8175bd09b534e69c5e108d33a5b35ff9
+    md5: a30c3b04a29dc11f4586fed77b17a5a6
 work/atmosphere/INPUT/ESM1p5_HI_full.huss.1980.nc:
   fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/ESM1p5_HI_full.huss.1980.nc
   hashes:
@@ -2301,6 +2351,56 @@ work/atmosphere/INPUT/friver_interp_jra_scenario_1989.nc:
   hashes:
     binhash: 0c401fe11bcbde023c129043eb7d15bf
     md5: d8a19abda6eb06bf9c4d376b17d7fd5c
+work/atmosphere/INPUT/friver_interp_jra_scenario_1990.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1990.nc
+  hashes:
+    binhash: 516b1d8cda0911446478f38b7a5ce02f
+    md5: 92241551037ffbe8e4d6235286b6f45a
+work/atmosphere/INPUT/friver_interp_jra_scenario_1991.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1991.nc
+  hashes:
+    binhash: 2ed8f44f61dab8435a41ec7700ff2bf2
+    md5: a4d12660536ec98b61018e32d64d7990
+work/atmosphere/INPUT/friver_interp_jra_scenario_1992.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1992.nc
+  hashes:
+    binhash: 3b9a62b6fddf16708d7d4ae183b672ac
+    md5: 8cb4e304bc0b2b7b34b383f032dc9c15
+work/atmosphere/INPUT/friver_interp_jra_scenario_1993.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1993.nc
+  hashes:
+    binhash: f5ab7c7f29c1c7a85e369253b85604e3
+    md5: be993b9abd270f2e5aeb1df354ba26f8
+work/atmosphere/INPUT/friver_interp_jra_scenario_1994.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1994.nc
+  hashes:
+    binhash: 747000b8942f0c331c4f3e9342c7d92b
+    md5: fd6578855ab1d45c13104c1ea1af97f5
+work/atmosphere/INPUT/friver_interp_jra_scenario_1995.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1995.nc
+  hashes:
+    binhash: ba5d6eb4fa6f439955525e5fa5e209b3
+    md5: b60d0471db9b351b171361b38cef232f
+work/atmosphere/INPUT/friver_interp_jra_scenario_1996.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1996.nc
+  hashes:
+    binhash: 9fc65f15f26eb045d0efc1184af1f0e7
+    md5: c666c158cd696a34102eb4bd927353fc
+work/atmosphere/INPUT/friver_interp_jra_scenario_1997.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1997.nc
+  hashes:
+    binhash: a116306880c0ebfe87ccd7f8e2dd49c9
+    md5: 146658c7e5fc9bca11d6351987faf914
+work/atmosphere/INPUT/friver_interp_jra_scenario_1998.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1998.nc
+  hashes:
+    binhash: e4bc770415e6ce13bda73c3bbcfbda38
+    md5: b7ee0c1e057387713d0ac3448e256ec5
+work/atmosphere/INPUT/friver_interp_jra_scenario_1999.nc:
+  fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/friver_interp_jra_scenario_1999.nc
+  hashes:
+    binhash: e413a8ecb75f3aa6141cd112dddcaac5
+    md5: 1fe4b0b93518bf1cffdf38967747d15f
 work/atmosphere/INPUT/old_yrs/ESM1p5_HI.licalvf.1974_blank.nc:
   fullpath: /g/data/if69/qo9901/ESMforcing_input/HI-10-re1/old_yrs/ESM1p5_HI.licalvf.1974_blank.nc
   hashes:
